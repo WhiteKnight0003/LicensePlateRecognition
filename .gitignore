@@ -1,0 +1,7 @@
+runs/
+outputs/
+inference/
+__pycache__/
+*.ipynb_checkpoints
+*.log
+*.csv
